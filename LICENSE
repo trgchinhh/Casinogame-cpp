@@ -1,18 +1,21 @@
-Giấy Phép Phi Thương Mại NTC++
-Bản quyền (c) 2026 Nguyễn Trường Chinh
+MIT License
 
-CHO PHÉP BẤT KỲ AI SỬ DỤNG, SAO CHÉP, CHỈNH SỬA VÀ PHÂN PHỐI PHẦN MỀM NÀY
-CHO MỤC ĐÍCH HỌC TẬP VÀ NGHIÊN CỨU PHI THƯƠNG MẠI.
+Copyright (c) 2026 Trường Chinh
 
-MỌI HÀNH VI SỬ DỤNG THƯƠNG MẠI, CẤP PHÉP LẠI HOẶC PHÂN PHỐI ĐỂ THU LỢI ĐỀU BỊ CẤM
-NẾU KHÔNG CÓ SỰ ĐỒNG Ý BẰNG VĂN BẢN TỪ TÁC GIẢ.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-DỰ ÁN NÀY DÀNH CHO MỤC ĐÍCH HỌC TẬP, NGHIÊN CỨU, PHÁT TRIỂN VÀ PHI THƯƠNG MẠI.
-KHÔNG ĐƯỢC SỬ DỤNG CHO BẤT KỲ MỤC ĐÍCH LỪA ĐẢO, GIAN LẬN TÀI CHÍNH,
-HOẶC VI PHẠM PHÁP LUẬT HIỆN HÀNH NÀO.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" (AS IS), KHÔNG CÓ BẤT KỲ BẢO HÀNH NÀO,
-DÙ RÕ RÀNG HAY NGỤ Ý. TÁC GIẢ KHÔNG CHỊU TRÁCH NHIỆM CHO BẤT KỲ THIỆT HẠI,
-TỔN THẤT HOẶC HẬU QUẢ NÀO PHÁT SINH TỪ VIỆC SỬ DỤNG PHẦN MỀM NÀY.
-
-TRÂN TRỌNG
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
