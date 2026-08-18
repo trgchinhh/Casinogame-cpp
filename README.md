@@ -163,9 +163,10 @@ Hệ thống được thiết kế theo mô hình phân tầng chức năng qu�
 
 ---
 
-> ⚠️ Lưu ý: trước khi build cần phải cài thư viện OpenSSL bằng MingW64/MSYS2. Nếu chưa có chạy lệnh dưới đây
+> ⚠️ Lưu ý: trước khi build cần phải cài thư viện OpenSSL và Curl bằng MingW64/MSYS2. Nếu chưa có chạy lệnh dưới đây
 ```bash
 pacman -S mingw-w64-x86_64-openssl
+pacman -S mingw-w64-x86_64-curl
 ```
 > Cần chạy lệnh trong MingW64
 
