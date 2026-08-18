@@ -68,6 +68,7 @@ void game_keobuabao(DanhSachNguoiChoi& danhsachnguoichoi, ThongTinPtr& nguoichoi
     cout << YELLOW << "\tKết quả: " << RESET << "[" << ketqua << "] " << endl;
     int tienthang = 0;
     if(ketqua == "Hòa"){
+        nguoichoi->sodu += tiencuoc;
         cout << "\tTrả lại tiền: " << YELLOW << "~" << dinhdangtien(tiencuoc) << RESET << " VND" << endl;
         hieuungamthanh_mp3(dd_dunglacontraicuata, trangthaiamthanh); 
     } else if(ketqua == "Thắng"){
