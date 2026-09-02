@@ -169,7 +169,7 @@ void ai_goiy(const string tennguoichoi, int& sodunguoichoi,
     lenh += "\nKhông giải thích, không viết thêm chữ nào khác.";
 
     json body_json = {
-        {"model","llama-3.1-8b-instant"},
+        {"model","openai/gpt-oss-20b"},
         //{"max_tokens", 10},
         {"messages",{
             {
